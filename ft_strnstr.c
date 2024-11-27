@@ -31,4 +31,4 @@ char	*ft_strnstr(const char *big, const char *little, size_t len)
 }
 // the first occurrence of the null-terminated string little in the string big, 
 // where not more than len characters are searched.
-// len little string
+// searches at most   len   characters
